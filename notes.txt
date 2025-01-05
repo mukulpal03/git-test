@@ -5,3 +5,7 @@ git by default kisi ko track nahi karta, uske liye we use git add command
 git status se saari tracked files dekh sakte h.
 
 Jitna bhi tracking hota h .git folder m hota h and saari git commands git folder m hi read and write karti h.
+
+git log is used to log commit info (har commit ka unique id - hash hota h)
+
+git diff is used to know the diff
