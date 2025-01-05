@@ -1,0 +1,3 @@
+git ek hidden folder bnata h called .git which tracks all the changes
+
+git by default kisi ko track nahi karta, uske liye we use git add command
